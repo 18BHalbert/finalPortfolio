@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+}
+
+#main{
+    background-color: white;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}

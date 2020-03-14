@@ -1,0 +1,23 @@
+body{
+    background-color: darkgray;
+    margin: 40px 10px;
+}
+
+form{
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+button{
+    display: block;
+    width: 100%;
+}
+
+.err {
+    color: darkred;
+    visibility: hidden;
+}
+
+#mailType{
+    visibility: hidden;
+}
